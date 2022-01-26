@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi folks, Andres Castillo Here! 
 
-<!--
-**RequiemGo/RequiemGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am System Engineer from Colombia.  I characterize myself as a proactive, responsible person, teamwork, leadership and adaptability to change.
 
-Here are some ideas to get you started:
+### Skills :tw-26a1:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Django and flask
+- MySQL and PostgreSQL
+- Excel
+
+### Contact :tw-1f4e9:
+
+LinkedIn: https://www.linkedin.com/in/andres-castillo-system-engineer/
+email: castilloreyesandre@gmail.com
