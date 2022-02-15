@@ -6,8 +6,10 @@ I am System Engineer from Colombia.  I characterize myself as a proactive, respo
 
 - Python
 - Django and flask
-- MySQL and PostgreSQL
+- sql, MySQL and PostgreSQL
 - Excel
+- Docker
+- AWS
 
 ### Contact 📩
 
